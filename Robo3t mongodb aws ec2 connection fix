@@ -1,0 +1,10 @@
+Robo3t mongodb aws ec2 connection fix
+
+--------------How to fix---------------
+
+
+1. From robo3t connection setting:
+server: <your aws ec2 public dns address>  example: ec2-000-000-000-000.ap-southeast-1.compute.amazonaws.com
+port: 27017
+
+2. Save and connect
